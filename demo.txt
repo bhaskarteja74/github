@@ -1,8 +1,8 @@
-#program to find the first character that is not repeated
+program to find the first character that is not repeated
 name = input('Enter a name')
 #suresh - 6
 #ureh - 4
-'''for i in name:
+''for i in name:
 	if(name.count(i)==1):
 		print('First non repeated character is:',i)
 		break'''
